@@ -1,4 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=raquel-f&label=Profile+Visitors)
+<a href="https://raquelferreira.vercel.app/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-Website-blue?link=https%3A%2F%2Fraquelferreira.vercel.app%2F">
+</a>
+
+
 
 ## 👋 Hello World 
 - I'm Raquel, a passionate and skilled software engineer specializing in full-stack web development with a strong emphasis on front-end development.
