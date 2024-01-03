@@ -7,7 +7,7 @@
 
 ## 👋 Hello World 
 - I'm Raquel, a passionate and skilled software engineer specializing in full-stack web development with a strong emphasis on front-end development.
-- I'm currently focused on increasing my understanding of the new Next.js 13.4 stable release!
+- I'm currently focused on increasing my understanding of no-code platforms!
 - I have a Bachelor's and a Master's Degree in Software Engineering
 
 ## 💻 Skills
