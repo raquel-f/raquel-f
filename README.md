@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/raquel-software/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0D1117?logo=linkedin">
   </a>
-  <a href="https://www.instagram.com/raquelf.dev/">
+  <a href="https://www.instagram.com/raquelsoftware/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-0D1117?logo=instagram">
   </a>
   
